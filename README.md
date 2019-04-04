@@ -19,7 +19,7 @@ Para ejecutar la imagen generada
 sudo docker run --rm -d -p 5000:8000 flask
 ```
 
-Para interactuar con la aplicación.
+Para interactuar con la aplicación, sin usar los containers.
 ```
 export FLASK_APP=main.py
 source venv/bin/activate
