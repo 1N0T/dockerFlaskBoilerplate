@@ -10,5 +10,6 @@ secrets.txt
 ./build/*
 env
 venv
+migrations
 __pycache__
 .vscode
